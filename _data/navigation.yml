@@ -1,0 +1,44 @@
+# main links
+main:
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+
+  - title: "About"
+    url: /about/
+  
+  - title: "Blog Posts"
+    url: /year-archive/
+  
+  
+  - title: "CV"
+    url: /assets/files/AmmarYasir_Resume_Senior_ML_Engineer.pdf
+
+
+
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+ 
+
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+  #   - title: "Publications"
+  #   url: /publications/
+
+  # - title: "Talks"
+  #   url: /talks/    
+
+  # - title: "Teaching"
+  #   url: /teaching/    
+    
+  # - title: "Portfolio"
+  #   url: /portfolio/
+        
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+    
+  # - title: "CV"
+  #   url: /cv/
+    
+  # - title: "Guide"
+  #   url: /markdown/
